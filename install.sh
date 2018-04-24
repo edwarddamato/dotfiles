@@ -6,6 +6,11 @@ BASEDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # git
 . ./git/install.sh $BASEDIR
 
+# dev
+# - nvm
+# - node6/8
+# - yarn
+
 # vscode
 # - settings
 # - extensions
